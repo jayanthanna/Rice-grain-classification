@@ -1,9 +1,14 @@
-# Grain-Palette
-A Deep Learning Odyssey in Rice Type Classification Through Transfer Learning
-GrainPalette is a deep learning-based project for classifying rice grain types using transfer learning. It leverages pretrained CNN architectures (like ResNet, EfficientNet) to achieve high accuracy on rice grain image datasets.
+# 🌾 Grain-Palette
 
-🚀 Features:
-Uses Transfer Learning to fine-tune pretrained models.
-Supports image classification of multiple rice varieties.
-Modular structure for data loading, training, evaluation.
-Jupyter notebook for EDA and experimentation
+A Deep Learning Approach to Classifying Rice Varieties Using Transfer Learning
+
+**Grain-Palette** is a deep learning project focused on accurately identifying different types of rice grains through image classification. By utilizing powerful pretrained CNN models such as **ResNet** and **EfficientNet**, the project applies transfer learning to deliver high performance on rice grain datasets.
+
+---
+
+## 🚀 Key Highlights:
+
+- 💡 Employs **transfer learning** to fine-tune state-of-the-art pretrained models.
+- 🌾 Capable of classifying **multiple rice grain varieties** with high accuracy.
+- 🔧 Built with a **modular design** for easy data loading, model training, and evaluation.
+- 📊 Includes **Jupyter notebooks** for exploratory data analysis (EDA) and model experimentation.
